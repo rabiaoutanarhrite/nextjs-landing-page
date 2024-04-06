@@ -1,6 +1,6 @@
 'use client'
 
-import { Link as ScrollLink, animateScroll as scroll } from 'react-scroll';
+import { Link as ScrollLink, animateScroll as scroll } from 'react-scroll'
 import {
   Box,
   Heading,
